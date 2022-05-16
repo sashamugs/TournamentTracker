@@ -74,8 +74,4 @@ Modelled against the NCAA Basketball tournament bracket style.
 * Random Ordering
 * Texting
 
-## subheader
-this is simply to test git commands and changes 
-I am adding something else for testing 
-here's another thing added for testing 
 
